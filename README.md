@@ -1,2 +1,2 @@
 # Java
-Projects written in Java.
+Small projects written in Java.
